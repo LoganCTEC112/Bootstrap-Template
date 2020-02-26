@@ -1,6 +1,6 @@
-# CTEC 127 Template
+# Bootstrap-1 
 
-Course template for CTEC 127
+A starter Repository
 
 ## File and Folder Structure
 
